@@ -1,0 +1,14 @@
+total 8.0K
+drwxr-xr-x. 2 root root    6 May 13 12:03 서식/
+drwxr-xr-x. 2 root root    6 May 13 12:03 공개/
+drwxr-xr-x. 2 root root    6 May 13 12:03 문서/
+drwxr-xr-x. 2 root root    6 May 13 12:03 음악/
+drwxr-xr-x. 2 root root   51 May 13 12:37 사진/
+drwxr-xr-x. 2 root root    6 May 13 12:03 비디오/
+drwxr-xr-x. 2 root root   71 May 13 14:43 바탕화면/
+drwxr-xr-x. 2 root root    6 May 13 12:03 다운로드/
+-rw-------. 1 root root 1.3K May 13 11:23 anaconda-ks.cfg
+-rw-r--r--  1 root root    2 May 14 15:14 apache.cnt
+drwxr-xr-x  2 root root   44 May 16 10:43 bin/
+-rw-r--r--  1 root root    0 May 14 12:23 flie.log
+-rw-r--r--  1 root root    0 May 16 16:51 lsfile

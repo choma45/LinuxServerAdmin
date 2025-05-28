@@ -1,0 +1,15 @@
+[cache]
+version = 1
+repository = cd0285e6af7a4decb1b4d8787b23023f2dc451950ac6427eba68c6509e1a2d98
+manifest = bdacee5eebec48676f600caf0d6f0a70792f53bf2520c5ad0f45396b7c9d3106
+previous_location = ssh://backupuser@server2/home/backupuser/borg
+timestamp = 2025-05-28T02:25:23.116041
+ignored_features = 
+mandatory_features = 
+key_type = 3
+
+[integrity]
+manifest = bdacee5eebec48676f600caf0d6f0a70792f53bf2520c5ad0f45396b7c9d3106
+files = {"algorithm": "XXH64", "digests": {"final": "1dd276d10f3d20df"}}
+chunks = {"algorithm": "XXH64", "digests": {"HashHeader": "8d1b420bfc3031f1", "final": "0840b881c2468b45"}}
+

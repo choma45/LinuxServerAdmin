@@ -1,0 +1,3 @@
+{"timestamp":7467419,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1747980973247"}}
+{"timestamp":7468798,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1747980974625"}}
+{"timestamp":7469209,"category":"addons_manager","name":"manage","extra":{"addon_id":"screenshots@mozilla.org","addon_type":"extension","glean_timestamp":"1747980975036","source":"system-addon","method":"disable"}}
